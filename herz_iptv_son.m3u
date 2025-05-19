@@ -1,0 +1,121 @@
+#EXTM3U
+
+#EXTINF:-1,TRT1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,Show TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+
+#EXTINF:-1,TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1,TLC
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+
+#EXTINF:-1,DMAX
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+
+#EXTINF:-1,TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1,Teve2
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+
+#EXTINF:-1,Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+
+#EXTINF:-1,TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,NTV
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+
+#EXTINF:-1,Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1,Bloomberg
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1,NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+
+#EXTINF:-1,CNN Turk
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_1_320/playlist.m3u8?&live=true&app=com.cnnturk&st=n0lZRk2rgyAOGVAJXifvig&e=1747635647
+
+#EXTINF:-1,AL Jazeera EN
+https://live-hls-web-aje.getaj.net/AJE/04.m3u8
+
+#EXTINF:-1,DW TV Europe
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1,DW TV Russia
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+
+#EXTINF:-1,Pobeda
+https://streaming.televizor-24-tochka.ru/live/43.m3u8
+
+#EXTINF:-1,RBK
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+
+#EXTINF:-1,RainTV
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+
+#EXTINF:-1,Rossiya RTR
+http://ott-cdn.ucom.am/s15/index.m3u8
+
+#EXTINF:-1,TNT Russia
+https://rushdtv.canlitvplayer.com/tntkomedia/tracks-v1a1/mono.m3u8?token=pak8j91pzKskW2WS2p6qBJnrPk2WA83tVMdGyA2PrxjC6Wmf8e4_nA1a_JwouH5CL3bDDkjVMr0b8DlQu7iuO46gzQ8al66_KNY7DLhdum0W6C9Sau0yOL-KTXaI3pogyo6JnvhdH35ko4SQm4nNHDMMdGN6TH0D8OlR9Qu5ISbdjh0Q0tZ9H898Z19i6vQiH3mCCqf4TsUqyVIhjOSIMeqGvXEh-MhmURK9IxNhx1Fxh_xMG0jgG0RzJaGcTqcp9wq7IqUNKOmWzhWx0WdjJA%2A%2A
+
+#EXTINF:-1,Perviy Kanal
+https://rushdtv.canlitvplayer.com/ort/tracks-v1a1/mono.m3u8?token=jZX1VZK46un55mzBubLv19l9FCm5z2SzeLz324YgUuwnbH-GYkg63tCH9FAjuMoofYN8vQOKsg-muOPo4EYn3TH7g9vwePxSr2Ni_dTzO1wqwyMHPLXVmIKjwUfx8vczFig8aNn7HD0jWBvabkX4h5uoVmytJv2q-csNqQMG1dU8o3qIJKNUPVOpSQF_iKVEO1xRSiO-X_0TK0hPW4Z9YYDY3OUTdGo_2wTkvpJd0R2_-0mUrC85K8VauRMvcQLZ
+
+#EXTINF:-1,Mir TV
+https://rushdtv.canlitvplayer.com/mir/index.m3u8?token=6EPEyj7BaUMPD_QUjUrgBGMQdLOnBzJvfAcHhx_WQcxhOo2e03zII-FMEim63TaIAseUR3zZA43llaNcX_JcWWU609gHSBmm9q-vKnSB3eEPn2X6-8BxoRtCip2rDoe7dLUR9V-q47LDCTg9dYYD4AYXbjTjA0TFR6hDDbeftRR4aExLYXfVLH5-5HAt3JeJYwQtRY5TUpR5lA-eoYWGjQTeZSHDGoG_WZRXf-N-Ozw1eP7w3-yWwHHuo6vud3wb
+
+#EXTINF:-1,HTB Russia
+https://streaming.goodstream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1,Mir 24
+https://rushdtv.canlitvplayer.com/mir24/tracks-v1a1/mono.m3u8?token=RHIMezkQDyF7PF_lqiY8mm70iPFE-ij1_eFaPSXw10qBRtcm_G-xKebpnyfutm1IAeS8KVTcF_Y4Nxik7pqGgOgV9igw-zL91W_Htv1QJgfKCOsHIZXChanQQynV3AW0_0FQx1r2BcLQrP3LfozvjCSsNWw0egFOu07gVpT4ZjFtWKwJkvKEH5luSGwLe7fJWBSz9VAbSDRzUjLqWqyN1pDULO7ogDGCWqCbeTY5VHA428n-yZMPETfLgdVYxLPr
+
+#EXTINF:-1,Mir 24 2
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1,Friday TV Ru
+https://rushdtv.canlitvplayer.com/friday/tracks-v1a1/mono.m3u8?token=t7ST70BeqM9oBmAkQXKUBDr5i7bUTRKAuw92qTqLKUzPYFSiTKMzpBNQL-FVSS5rAAsXgzVqAfo-_-Gn-5gkF6HT8q92EgET1Jv1iWx5ddgrcYL_mkSDPdqfJvZVP0MGFrAdZ0kfEXqYa54-kElKA81Hw87H619guq-j9qYhtGgKJt4N-swmIEhmRqWp5qoKyqxiK58pgylorcI5yDB0c8SgcSU4zWli59NxzSPF8rzwiTRo7T40yUBsOvBVAhOm
+
+#EXTINF:-1,Zvezda TV
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+
+#EXTINF:-1,Rossiya 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+
+#EXTINF:-1,Rossiya 24 2
+https://streaming.televizor-24-tochka.ru/live/30.m3u8
+
+#EXTINF:-1,CNN Live
+https://live-media-fly.warnermediacdn.com/cmaf/live/2019054/cnngo/cnn_slate-cenc/widevine/VIDEO_4_1128000.m3u8
+
+#EXTINF:-1,Fox News
+https://247.foxnews.com/hls/live/2003586/FNCHLSv3/primary_2692.m3u8
+
+#EXTINF:-1,CBC News
+https://apollo.production-public.tubi.io/live/ac-cbc2/426x240.m3u8?ap.debug=0&ap.pt=0&ap.sid=c9387244-49f8-4189-93ee-3cf69be4adb5&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=5d7961cdab1e1eac81c92537fc30072f
+
+#EXTINF:-1,CBC News 2
+https://dai.google.com/linear/hls/pa/event/_rLdLVACQsGnox8dV5pT-g/stream/52d9af2a-e99d-4d32-bd3b-4ab2c502950a:CBF2/variant/f217af21e2efc64f76d958302bbc7dc8/bandwidth/1040017.m3u8
+
+#EXTINF:-1,CBS News
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/15038a3f-1b50-44e0-9806-0b3afea528be:MRN2/variant/5f1231dfb94f19add3308a6eecf4a5ec/bandwidth/1036970.m3u8
+
+#EXTINF:-1,CBS News 2
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/b68f34dd4b8a41cda6dbcc6b065eff65/cbsn-plain-uhd.m3u8
+
+#EXTINF:-1,Bloomberg Global TV
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1,ABC News
+https://content-ausw2-up-1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/f.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&clancy=testlivechannel&ad.adunit=/abc-news/abcnews.com/web/video&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.is_lat=0&ad.npa=0&ad.tfcd=0&ad.vast3=1&ad.vid=$program_id&ad.description_url=https://abcnews.go.com/&ad.ppid=6225fc0812a6476bb89f924b71ae0730&ad.us_privacy=&prbd.server=drax&ad.prbd=drax&ad.rdp=0&ad.cust_params=chan%3Dabc%26beacTyp%3Dssai%26stp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D0%26isAuth%3D0%26lang%3Den%26aff%3Dabc%26swid%3D6225fc08-12a6-476b-b89f-924b71ae0730%26tag%3D%26objid%3Dabc_live11%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%2FLive%26plt%3Dweb%26d_us_privacy%3D&ad.adUnit=/abc-news/abcnews.com/web/video&pbs=b86bd15680534e20b3685a9883d7011e
+
+#EXTINF:-1,ABC News 2
+https://abcnews-lh.akamaihd.net/i/abc_live10@423397/master.m3u8
