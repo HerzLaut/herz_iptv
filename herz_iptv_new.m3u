@@ -1,0 +1,133 @@
+#EXTM3U
+
+#EXTINF:-1,TLC
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+
+#EXTINF:-1,TLC RU
+https://s.tivix.co/mBHKJWZRSLVx1IUR_tyoUA/229/1747813098/index.m3u8
+
+#EXTINF:-1,DMAX
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+
+#EXTINF:-1,TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1,TRT1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,Show TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+
+#EXTINF:-1,TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1,Teve2
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+
+#EXTINF:-1,TELE 1
+https://tele1-live.ercdn.net/tele1/tele1_360p.m3u8
+
+#EXTINF:-1,Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+
+#EXTINF:-1,TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,NTV
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+
+#EXTINF:-1,Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1,Bloomberg
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1,NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+
+#EXTINF:-1,A Haber
+https://trkvz-live.daioncdn.net/ahaber/ahaber.m3u8
+
+#EXTINF:-1,Haber Global
+https://tv.ensonhaber.com/haberglobal/index.m3u8
+
+#EXTINF:-1,Sözcü TV
+https://sozcu-live.daioncdn.net/sozcu/sozcu.m3u8
+
+#EXTINF:-1,CNN Turk
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+
+#EXTINF:-1,TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,A Spor
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+
+#EXTINF:-1,AL Jazeera EN
+https://live-hls-web-aje.getaj.net/AJE/04.m3u8
+
+#EXTINF:-1,DW TV Europe
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1,DW TV Russia
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+
+#EXTINF:-1,Pobeda
+https://streaming.televizor-24-tochka.ru/live/43.m3u8
+
+#EXTINF:-1,RBK
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+
+#EXTINF:-1,RainTV
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+
+#EXTINF:-1,Rossiya RTR
+http://ott-cdn.ucom.am/s15/index.m3u8
+
+#EXTINF:-1,TNT Russia
+https://s.tivix.co/VOXs0tWUZCB7f7-Uhayfjg/547/1747812514/index.m3u8
+
+#EXTINF:-1,Perviy Kanal
+https://salam-mskth-46.rutube.ru/dive/river-5-543.rutube.ru/NCjAFYxgYNK5x3-lex3CtA/stream/genetta-303.m9.rutube.ru/a71Y0IX0cr6xbvScQuvNqg/1748400510/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+
+#EXTINF:-1,Mir TV
+https://s.tivix.co/ucAZ2fmgbEAL2lrlYrlo0g/587/1747813191/index.m3u8
+
+#EXTINF:-1,REN TV
+https://s.tivix.co/8mTWdzmGaPFRHMtiK2Yleg/543/1747813255/index.m3u8
+
+#EXTINF:-1,HTB Russia
+https://streaming.goodstream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1,Mir 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1,Friday TV Ru
+https://salam-mskth-35.rutube.ru/dive/river-3-336.rutube.ru/9UPgdXhalaPvYhVTq07iIQ/stream/genetta-318.m9.rutube.ru/g-Xd2ybia2Sel9Ec1eBryw/1748400573/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
+
+#EXTINF:-1,INTER
+https://s.tivix.co/4O91VklJCeJG4tUzGyOfeg/514/1747813350/index.m3u8
+
+#EXTINF:-1,National Geographic
+https://s.tivix.co/-fJhCzNM-h51yScEKeEe-g/601/1747813398/index.m3u8
+
+#EXTINF:-1,Nat Geo Wild
+https://s.tivix.co/EMBesXJ2KePQPXk80j-KZA/564/1747813453/index.m3u8
+
+#EXTINF:-1,History
+https://s.tivix.co/bSz110qaaE-z9KB-x4t7Yg/114/1747813491/index.m3u8
+
+#EXTINF:-1,Discovery Channel
+https://s.tivix.co/VBpKKaVZUKveo-f2apNZ5A/520/1747813540/index.m3u8
+
+#EXTINF:-1,Zvezda TV
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+
+#EXTINF:-1,Rossiya 1
+https://s.tivix.co/o8wg3_KYpeWkm1jqhljBqA/544/1747813323/index.m3u8
+
+#EXTINF:-1,Rossiya 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+
+#EXTINF:-1,Rossiya 24 2
+https://streaming.televizor-24-tochka.ru/live/30.m3u8
