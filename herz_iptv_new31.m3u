@@ -1,0 +1,121 @@
+#EXTM3U
+
+#EXTINF:-1,TLC
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+
+#EXTINF:-1,DMAX
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+
+#EXTINF:-1,TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1,TRT1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,Show TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+
+#EXTINF:-1,TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1,Teve2
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+
+#EXTINF:-1,TELE 1
+https://tele1-live.ercdn.net/tele1/tele1_360p.m3u8
+
+#EXTINF:-1,Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+
+#EXTINF:-1,TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,NTV
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+
+#EXTINF:-1,Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1,Bloomberg
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1,NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+
+#EXTINF:-1,A Haber
+https://trkvz-live.daioncdn.net/ahaber/ahaber.m3u8
+
+#EXTINF:-1,Haber Global
+https://tv.ensonhaber.com/haberglobal/index.m3u8
+
+#EXTINF:-1,Sözcü TV
+https://sozcu-live.daioncdn.net/sozcu/sozcu.m3u8
+
+#EXTINF:-1,CNN Turk
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+
+#EXTINF:-1,TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,A Spor
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+
+#EXTINF:-1,AL Jazeera EN
+https://live-hls-web-aje.getaj.net/AJE/04.m3u8
+
+#EXTINF:-1,DW TV Europe
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1,DW TV Russia
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+
+#EXTINF:-1,Pobeda
+https://streaming.televizor-24-tochka.ru/live/43.m3u8
+
+#EXTINF:-1,RBK
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+
+#EXTINF:-1,RainTV
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+
+#EXTINF:-1,Rossiya RTR
+http://ott-cdn.ucom.am/s15/index.m3u8
+
+#EXTINF:-1,MATCH
+https://salam-mskth-20.rutube.ru/dive/river-3-339.rutube.ru/92pVwn4qipneicX0dn2tsg/stream/genetta-311.m9.rutube.ru/eVktUVIt3VLkt9W4tstH1Q/1748401756/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
+
+#EXTINF:-1,Perviy Kanal
+https://salam-mskth-46.rutube.ru/dive/river-5-543.rutube.ru/NCjAFYxgYNK5x3-lex3CtA/stream/genetta-303.m9.rutube.ru/a71Y0IX0cr6xbvScQuvNqg/1748400510/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+
+#EXTINF:-1,REN TV
+https://s.domatv.net/21HZXkF_ZPOj02chi-jYkw/543/1747815181/index.m3u8
+
+#EXTINF:-1,HTB Russia
+https://streaming.goodstream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1,Mir TV
+https://salam-mskm9-1.rutube.ru/dive/river-3-328.rutube.ru/Yf9rdQZe7hgMuOJKdK9BJg/stream/genetta-312.m9.rutube.ru/oz-kI3eSWraNSr4yCW0l2g/1748402355/afef67d151b5a607dee1ef0aa299a52c/720p_stream.m3u8
+
+#EXTINF:-1,Mir 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1,Friday TV Ru
+https://salam-mskth-35.rutube.ru/dive/river-3-336.rutube.ru/9UPgdXhalaPvYhVTq07iIQ/stream/genetta-318.m9.rutube.ru/g-Xd2ybia2Sel9Ec1eBryw/1748400573/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
+
+#EXTINF:-1,History
+https://s.domatv.net/DaP61E3jgzcfblMArDOARA/114/1747815231/index.m3u8
+
+#EXTINF:-1,History 2
+https://s.domatv.net/114/index.m3u8?k=1747815227p49i25i07i641S83571e3baac6332382fe54ab1c530785
+
+#EXTINF:-1,Zvezda TV
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+
+#EXTINF:-1,Rossiya 1
+https://s.domatv.net/yu_MI2_QMm1299A55akA-g/544/1747815144/index.m3u8
+
+#EXTINF:-1,Rossiya 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+
+#EXTINF:-1,Rossiya 24 2
+https://streaming.televizor-24-tochka.ru/live/30.m3u8
