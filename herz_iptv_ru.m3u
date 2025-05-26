@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1,DW TV Russia
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+
+#EXTINF:-1,Pobeda
+https://streaming.televizor-24-tochka.ru/live/43.m3u8
+
+#EXTINF:-1,RBK
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+
+#EXTINF:-1,RainTV
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+
+#EXTINF:-1,Rossiya RTR
+http://ott-cdn.ucom.am/s15/index.m3u8
+
+#EXTINF:-1,MATCH
+https://salam-mskth-20.rutube.ru/dive/river-3-339.rutube.ru/92pVwn4qipneicX0dn2tsg/stream/genetta-311.m9.rutube.ru/eVktUVIt3VLkt9W4tstH1Q/1748401756/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
+
+#EXTINF:-1,Perviy Kanal
+https://salam-mskth-46.rutube.ru/dive/river-5-543.rutube.ru/NCjAFYxgYNK5x3-lex3CtA/stream/genetta-303.m9.rutube.ru/a71Y0IX0cr6xbvScQuvNqg/1748400510/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+
+#EXTINF:-1,REN TV
+https://s.domatv.net/21HZXkF_ZPOj02chi-jYkw/543/1747815181/index.m3u8
+
+#EXTINF:-1,HTB Russia
+https://streaming.goodstream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1,Mir TV
+https://salam-mskm9-1.rutube.ru/dive/river-3-328.rutube.ru/Yf9rdQZe7hgMuOJKdK9BJg/stream/genetta-312.m9.rutube.ru/oz-kI3eSWraNSr4yCW0l2g/1748402355/afef67d151b5a607dee1ef0aa299a52c/720p_stream.m3u8
+
+#EXTINF:-1,Mir 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1,Friday TV Ru
+https://salam-mskth-35.rutube.ru/dive/river-3-336.rutube.ru/9UPgdXhalaPvYhVTq07iIQ/stream/genetta-318.m9.rutube.ru/g-Xd2ybia2Sel9Ec1eBryw/1748400573/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
+
+#EXTINF:-1,Zvezda TV
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+
+#EXTINF:-1,Rossiya 1
+https://s.domatv.net/yu_MI2_QMm1299A55akA-g/544/1747815144/index.m3u8
+
+#EXTINF:-1,Rossiya 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+
+#EXTINF:-1,Rossiya 24 2
+https://streaming.televizor-24-tochka.ru/live/30.m3u8
